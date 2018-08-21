@@ -8,6 +8,9 @@
 
 * 「Noto Serif」表示例（選別 2 Weight）<br>
 <a href="https://tipsnote.github.io/webfont_notoserif/webfont_sample_weight2.html">デモページ</a>
+
+* 「Noto Serif」表示例（選別 2 Weight）※「.woff」<br>
+<a href="https://tipsnote.github.io/webfont_notoserif/webfont_sample_weight3.html">デモページ</a>
 <br>
 <br>
 　<a href="#">→元の記事へ戻る</a>
