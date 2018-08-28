@@ -13,4 +13,4 @@
 <a href="https://github.com/umedatam.github.io/webfont_notoserif/webfont_sample_weight3.html">デモページ</a>
 <br>
 <br>
-　<a href="#">→元の記事へ戻る</a>
+　<a href="https://www.tam-tam.co.jp/tipsnote/html_css/post13175.html">→「Tips Note」の記事へ戻る</a>
